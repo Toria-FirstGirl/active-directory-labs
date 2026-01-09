@@ -35,16 +35,16 @@ This repository documents hands-on IT support tasks performed in a Windows Activ
 ## 📸 Screenshots
 
 - Login error before password reset:  
-![Login Error](screenshots/login-password-change-required.png)
+![Error message](screenshots/error-message.png)
 
 - Active Directory account status:  
-![AD Account Status](screenshots/ad-account-status.png)
+![AD Account Status](screenshots/login-failed-incorrect-password.png)
 
 - Reset password action:  
-![Password Reset](screenshots/ad-password-reset-loop-fix.png)
+![Password Reset](screenshots/new-pass=setup.png)
 
 - Successful login after fix:  
-![Login Success](screenshots/login-success.png)
+![Login Success](password-change.png)
 
 ---
 
